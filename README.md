@@ -1,0 +1,7 @@
+- 👋 Hello, i am @GabiSystem... or Gabi Opossum, you can call me only Opossum if u wanna :D
+- 👀 I'm interested in developing systems and software that can help people in their daily lives, including and focusing on the area of ​​games!
+- 🌱 I’m currently learning DBMS, Web development and java frame development
+- 💞️ I’m looking to collaborate on creating systems to help players have more fun in games
+- 📫 How to reach me: sending me a email in gabisystemdev@gmail.com
+- 😄 Pronouns: They/they
+- ⚡ Fun fact: I suffer from dissociative identity disorder, that is, i am a system person :D
